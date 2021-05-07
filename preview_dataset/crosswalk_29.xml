@@ -1,0 +1,38 @@
+<annotation>
+	<folder>crosswalk_videos</folder>
+	<filename>crosswalk_29.jpg</filename>
+	<path>/media/subham/New Volume1/mywork/upwork/project4_26042021_uco/crosswalk_videos/crosswalk_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>321</ymin>
+			<xmax>326</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crosswalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>192</ymin>
+			<xmax>333</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

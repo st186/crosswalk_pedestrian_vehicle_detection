@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crosswalk_videos</folder>
+	<filename>crosswalk_3.jpg</filename>
+	<path>/media/subham/New Volume1/mywork/upwork/project4_26042021_uco/crosswalk_videos/crosswalk_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crosswalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>179</ymin>
+			<xmax>346</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>
